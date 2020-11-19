@@ -1,6 +1,6 @@
-@Test
+@isTest
 public with sharing class HelloWorldTest {
-    @Test
+    @isTest
     public HelloWorldTest() {
         HelloWorld hw = new HelloWorld();
     }
