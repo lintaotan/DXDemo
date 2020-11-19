@@ -1,7 +1,7 @@
 @isTest
 public with sharing class HelloWorldTest {
     @isTest
-    public HelloWorldTest() {
+    static void TestA() {
         HelloWorld hw = new HelloWorld();
     }
 }
