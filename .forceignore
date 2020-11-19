@@ -10,3 +10,9 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
+
+**appMenu
+**appSwitcher
+**objectTranslations
+**profiles
+**settings
